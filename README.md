@@ -1,2 +1,2 @@
 # Check-City-Weather
-This site tells the weather (1-3 days today) for input city name.
+This website scrap data from a weather-forecast site and display the weather report of upcoming 3 days for entered city name.
